@@ -1,3 +1,4 @@
+![logo](https://github.com/gurusanthosh03/gurusanthosh03/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Guru Santhosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
