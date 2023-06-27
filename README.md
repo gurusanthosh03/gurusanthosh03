@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guru Santhosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83969467/204139392-825f3781-f5c9-4e27-a9a1-a8d2c4a7e41c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusanthosh03&label=Profile%20views&color=0e75b6&style=flat" alt="gurusanthosh03" /> </p>
 
