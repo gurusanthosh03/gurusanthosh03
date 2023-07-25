@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,BootStrap**
 
 - 📫 How to reach me **guru03santhosh@gmail.com**
 
