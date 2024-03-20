@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusanthosh03&label=Profile%20views&color=0e75b6&style=flat" alt="gurusanthosh03" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML,CSS,BootStrap**
+- 💬 Ask me about **Angular,TypeScript**
 
 - 📫 How to reach me **guru03santhosh@gmail.com**
 
