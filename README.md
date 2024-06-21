@@ -1,6 +1,6 @@
 ![logo](https://github.com/gurusanthosh03/gurusanthosh03/blob/main/js.gif)
 <h1 align="center">Hi 👋, I'm Guru Santhosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83969467/204139392-825f3781-f5c9-4e27-a9a1-a8d2c4a7e41c.gif">
 
